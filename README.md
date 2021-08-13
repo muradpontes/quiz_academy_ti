@@ -1,5 +1,8 @@
 <p align=center>
-  <br>Quiz Academy Ti</br>  
+  <br>Quiz Academy Ti</br> 
+  <img src="https://i.imgur.com/m7cLVSJ.png">
+  
+  
 </p>
 
 <p align=center>
